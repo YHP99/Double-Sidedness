@@ -1,0 +1,19 @@
+
+cutegirl.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+run
+  rotate: false
+  xy: 1, 1
+  size: 8320, 454
+  orig: 8320, 454
+  offset: 0, 0
+  index: -1
+Jump (1)
+  rotate: false
+  xy: 8323, 1
+  size: 416, 454
+  orig: 416, 454
+  offset: 0, 0
+  index: -1
